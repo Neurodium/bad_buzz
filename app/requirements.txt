@@ -1,0 +1,5 @@
+tensorflow-cpu==2.7
+spacy==3.4.4
+flask==2.2.2
+gunicorn==20.1.0
+
